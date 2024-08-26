@@ -6,7 +6,9 @@ const app = express()
 app.use(bodyParser.json())
 
 
-app.use('/hello', rotas)
+app.use('/produtos', rotas)
+
+app.use('/clientes',rotas)
 
 
 const port = 8000 

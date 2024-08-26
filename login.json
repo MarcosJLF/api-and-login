@@ -1,0 +1,24 @@
+{
+    "dados": [
+        {
+            "nome": "moto",
+            "senha": "duas rodas",
+            "email": "asdad"
+        },
+        {
+            "nome": "leo",
+            "senha": "leo1234",
+            "email": "leo@gamil.com"
+        },
+        {
+            "nome": "leo",
+            "senha": "leo1234",
+            "email": "leo@gamil.com"
+        },
+        {
+            "nome": "leo",
+            "senha": "leo1234",
+            "email": "leo@gamil.com"
+        }
+    ]
+}
